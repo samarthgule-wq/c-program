@@ -8,7 +8,7 @@ int main()
    {
       printf("invalid marks please enter correct marks");
    }
-   se if(marks<50)
+   else if(marks<50)
    {
       printf("Grade F\n");
    }
