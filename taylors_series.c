@@ -1,8 +1,8 @@
 #include<stdio.h>
-#include<math.h>
-void main()
+#include<math.h>  
+void  main()
 {
-   float x,term,sum;
+   float x,term,sum=0;
    int n,i;
    printf("Enter the value of x:");
    scanf("%f",&x);
