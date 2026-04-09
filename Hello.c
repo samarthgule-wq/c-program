@@ -32,7 +32,7 @@ int main()
    {
       printf("Grade A\n");
    }
-   else
+   else\
    {
       printf("invalid charecter please enter vvalid charecter");
    }
