@@ -11,7 +11,7 @@ int main() {
     }
     
     int binary[32]; // Array to store binary digits
-    int i = 0;
+    nt i = 0;
     
     while (decimal > 0) {
         binary[i] = decimal % 2;
