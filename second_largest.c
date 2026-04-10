@@ -16,7 +16,7 @@ void main()
             printf("second largest number is:%d",a);
         }    
     }
-    else{
+    lse{
         if(b>c){
             if(a>c){
                 printf("second largest number is:%d",a);
