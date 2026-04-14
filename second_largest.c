@@ -9,7 +9,7 @@ void main()
             if(b>c){
                 printf("second largest number is:%d",b);
             }
-            lse{
+            else{
                 printf("second largest number is:%d",c);
             }
         }else{
